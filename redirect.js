@@ -4,7 +4,6 @@ chrome.webRequest.onBeforeRequest.addListener(
 		url = details.url 
 		newurl = url.replace("nhentai.net/g/","proxy.error434.xyz/")
 		return {redirectUrl: newurl};
-		
 	}, 
 
 	{

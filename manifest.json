@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Nhentai-Proxy-Rediret",
+  "version": "1.0.0",
+  "author": "error434",
+  "homepage_url": "https://proxy.error434.xyz",
+  "description": "Redirects every Nhentai doujin url to a proxy website. ", 
+  "icons": {
+    "128": "./icons/logo.png",
+    "48":  "./icons/logo.png",
+    "16":  "./icons/logo.png"
+  },
+  "background": {
+    "scripts": ["redirect.js"]
+  },
+  "permissions": [ 
+    "webRequest",
+    "webRequestBlocking",
+		"https://nhentai.net/g/*"
+  ]
+}
+

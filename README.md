@@ -12,7 +12,7 @@ When you use this extension, every time you open a [nhentai](https://nhentai.net
    
 2. Go to your [chrome extensions](chrome://extensions) page and enable developer mode. That should reveal three new options, `Load unpacked`, `Pack extension` and `Update`.
 
-3. Select `Load unpacked`, and select the extracted folder
+3. Select `Load unpacked`, and select the extracted folder.
 
 
 _free tip_: Turn on the `allow in incognito` option, you know why :)

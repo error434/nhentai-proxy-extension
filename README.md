@@ -8,7 +8,7 @@ When you use this extension, every time you open a [nhentai](https://nhentai.net
 
 ## Installation
 
-1. Download the `.zip` file from releases.
+1. Download the `.zip` [file](https://github.com/error434/nhentai-proxy-extension/releases/download/v1.0.0/nhentai-proxy-extension.zip) and extract it.
    
 2. Go to your [chrome extensions](chrome://extensions) page and enable developer mode. That should reveal three new options, `Load unpacked`, `Pack extension` and `Update`.
 
